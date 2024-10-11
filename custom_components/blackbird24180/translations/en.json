@@ -1,44 +1,41 @@
 {
-    "config": {
-        "abort": {
-            "already_configured": "Device is already configured"
-        },
-        "error": {
-            "cannot_connect": "Failed to connect",
-            "unknown": "Unexpected error"
-        },
-        "step": {
-            "user": {
-                "data": {
-                    "input_1": "Name of input #1",
-                    "input_2": "Name of input #2",
-                    "input_3": "Name of input #3",
-                    "input_4": "Name of input #4",
-                    "input_5": "Name of input #5",
-                    "input_6": "Name of input #6",
-                    "input_7": "Name of input #7",
-                    "input_8": "Name of input #8",
-                    "port": "Port"
-                },
-                "title": "Connect to the device"
-            }
-        }
+  "config": {
+    "error": {
+      "cannot_connect": "Failed to connect",
+      "unknown": "Unexpected error"
     },
-    "options": {
-        "step": {
-            "init": {
-                "data": {
-                    "input_1": "Name of input #1",
-                    "input_2": "Name of input #2",
-                    "input_3": "Name of input #3",
-                    "input_4": "Name of input #4",
-                    "input_5": "Name of input #5",
-                    "input_6": "Name of input #6",
-                    "input_7": "Name of input #7",
-                    "input_8": "Name of input #8"
-                },
-                "title": "Configure sources"
-            }
-        }
+    "step": {
+      "user": {
+        "data": {
+          "input_1": "Name of input #1",
+          "input_2": "Name of input #2",
+          "input_3": "Name of input #3",
+          "input_4": "Name of input #4",
+          "input_5": "Name of input #5",
+          "input_6": "Name of input #6",
+          "input_7": "Name of input #7",
+          "input_8": "Name of input #8",
+          "port": "Port"
+        },
+        "title": "Connect to the device"
+      }
     }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "data": {
+          "input_1": "Name of input #1",
+          "input_2": "Name of input #2",
+          "input_3": "Name of input #3",
+          "input_4": "Name of input #4",
+          "input_5": "Name of input #5",
+          "input_6": "Name of input #6",
+          "input_7": "Name of input #7",
+          "input_8": "Name of input #8"
+        },
+        "title": "Configure sources"
+      }
+    }
+  }
 }
