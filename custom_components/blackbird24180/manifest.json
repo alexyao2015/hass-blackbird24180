@@ -1,6 +1,6 @@
 {
   "domain": "blackbird24180",
-  "name": "Blackbird 24180 HDMI Matrix",
+  "name": "Monoprice Blackbird 24180 HDMI Matrix",
   "codeowners": ["@alexyao2015"],
   "config_flow": true,
   "documentation": "https://github.com/alexyao2015/hass-blackbird24180",
