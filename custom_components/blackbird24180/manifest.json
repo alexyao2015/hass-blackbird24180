@@ -1,0 +1,12 @@
+{
+  "domain": "blackbird24180",
+  "name": "Blackbird 24180 HDMI Matrix",
+  "codeowners": ["@alexyao2015"],
+  "config_flow": true,
+  "documentation": "https://github.com/alexyao2015/hass-blackbird24180",
+  "issue_tracker": "https://github.com/alexyao2015/hass-blackbird24180/issues",
+  "iot_class": "local_polling",
+  "loggers": ["aioblackbird24180"],
+  "requirements": ["aioblackbird24180==0.1.2"],
+  "version": "0.0.1"
+}
